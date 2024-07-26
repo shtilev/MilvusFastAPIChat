@@ -2,3 +2,4 @@ tester.py
 .env
 .idea/
 __pycache__
+.test/
