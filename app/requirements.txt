@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+redis
+pymilvus
+openai
+wikipedia-api
+transformers
+torch
